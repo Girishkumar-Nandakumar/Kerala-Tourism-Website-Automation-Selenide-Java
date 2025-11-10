@@ -21,7 +21,7 @@ Followed IEEE 829 and ISO/IEC/IEEE 29119 documentation standards
 
 🌐 Live Website
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔗 Kerala Tourism Website (GitHub Pages)
+🔗 [Kerala Tourism Website] https://hashirakb.github.io/Kerala-Tourism-Website/index.html (GitHub Pages)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️  Tech Stack & Frameworks 
