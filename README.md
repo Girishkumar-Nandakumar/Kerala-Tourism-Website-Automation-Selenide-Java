@@ -4,6 +4,7 @@
 🎯 Objective
 -------------
 To validate the functional, security, responsiveness, and performance aspects of a static tourism website using a unified automation framework built with Selenide (Java) — delivering concise, reliable, and maintainable test automation.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✨ Project Highlights
@@ -17,6 +18,7 @@ Implemented POM-based architecture for clean, maintainable scripts
 Integrated JMeter, OWASP ZAP, and Lighthouse for non-functional testing
 
 Followed IEEE 829 and ISO/IEC/IEEE 29119 documentation standards
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌐 Live Website
