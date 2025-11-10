@@ -111,20 +111,27 @@ Developed a strong understanding of multi-tool QA integration
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 🙌 Acknowledgments
 -------------------
 I extend my heartfelt gratitude to Ms. Sheena Rajan, our mentor, for her guidance, expertise, and constant support throughout this project.
 Gratitude to the Open Source Testing Community for their valuable tools and shared resources.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ Repository Info
 -------------------
 
 📁 Repository Name	Kerala-Tourism-Website-Automation-Selenide-Java
+
 🧩 Primary Framework	Selenide (Java)
+
 ⚙️ Test Runner	TestNG
+
 🧱 Build Tool	Maven
+
 🕹 CI/CD	GitHub Actions
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ If you found this project helpful, consider giving it a star on GitHub to support open learning!
