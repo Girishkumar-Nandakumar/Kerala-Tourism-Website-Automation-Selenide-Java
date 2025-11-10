@@ -20,17 +20,19 @@ Professional QA documentation: Test Plan, RTM, Defect Report, and Performance An
 🌐 Live Website: 🔗 https://hashirakb.github.io/Kerala-Tourism-Website/index.html
 -----------------------------------------------------------------------------------
 
-🛠️ Tech Stack & Frameworks
----------------------------
-Category	                              Tools & Technologies	                                        Description
-🧩 UI Automation                        	Selenide (Java)	                      Simplified Selenium wrapper for fluent, BDD-style syntax.
-⚙️ Framework Design	                  Page Object Model (POM)	                        Ensures maintainability and modularity.
-🧾 Test Management & Execution	              TestNG	                          Handles grouping, prioritization, and report generation.
-📦 Build Tool	                                Maven	                                  Manages dependencies and test execution.
-🚀 CI/CD	                                GitHub Actions	                            Triggers automated tests on push events.
-⚡ Modern UI/API Testing	      Playwright for Java (optional extension)	          Used for fast UI and API testing with trace viewing.
-🧰 Performance Testing	                  Apache JMeter	                              Performed Load, Stress, Spike, and Soak tests.
-🔐 Security Testing	                    OWASP ZAP, Burp Suite	                    Identified input validation and session management issues.
+🛠️  Tech Stack & Frameworks 
+-------------------------------
+| Category | Tools & Technologies | Description |
+|-----------|---------------------|--------------|
+|  UI Automation  | Selenium WebDriver (Java) | Core framework for web UI automation and cross-browser testing. |
+|  Advanced Automation  | Playwright (Java), Selenide | Simplified test syntax, fast execution, and BDD-style flows. |
+|  Performance Testing  | Apache JMeter | Simulated load, spike, soak, and stress scenarios. |
+|  Security Testing  | OWASP ZAP | Detected XSS, insecure headers, and input validation gaps. |
+|  Accessibility Testing  | Lighthouse, PowerMapper | WCAG 2.1 compliance and usability validation. |
+|  Framework Design  | Page Object Model (POM) | Code modularity, maintainability, and scalability. |
+|  Build Tool  | Maven | Dependency management and automated test execution. |
+|  Test Runner  | TestNG | Test grouping, reporting, and parallel execution. |
+|  Reporting & CI/CD  | TestNG HTML Reports, GitHub Actions | Automated test runs with visual reports. |
 
 🔍 Testing Scope
 --------------------------------------------------------------
