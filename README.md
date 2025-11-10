@@ -1,24 +1,28 @@
-🎓 Software Testing Capstone Project: Kerala Tourism Web Application
-----------------------------------------------------------------------------
+🎓 Software Testing Capstone Project: Kerala Tourism Web Application (Selenide - Java)
+---------------------------------------------------------------------------------------
 
 🎯 Objective
 -------------
-To validate the functional, security, responsiveness, and performance aspects of a tourism website using modern testing methodologies and a unified automation framework based on Selenide (Java).
-
+To validate the functional, security, responsiveness, and performance aspects of a static tourism website using a unified automation framework built with Selenide (Java) — delivering concise, reliable, and maintainable test automation.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✨ Project Highlights
 ----------------------
-End-to-end QA lifecycle — from Manual Testing → Automation → Performance → Security.
+End-to-end QA lifecycle: Manual → Automation → Performance → Security → Accessibility
 
-Unified automation framework built with Selenide + Java + TestNG + Maven.
+Developed a modern automation framework using Selenide, Java, and TestNG
 
-Integration with CI/CD (GitHub Actions) for automated execution.
+Implemented POM-based architecture for clean, maintainable scripts
 
-Professional QA documentation: Test Plan, RTM, Defect Report, and Performance Analysis.
+Integrated JMeter, OWASP ZAP, and Lighthouse for non-functional testing
 
-----------------------------------------------------------------------------------
-🌐 Live Website: 🔗 https://hashirakb.github.io/Kerala-Tourism-Website/index.html
------------------------------------------------------------------------------------
+Followed IEEE 829 and ISO/IEC/IEEE 29119 documentation standards
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🌐 Live Website
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔗 Kerala Tourism Website (GitHub Pages)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️  Tech Stack & Frameworks 
 -------------------------------
@@ -33,89 +37,94 @@ Professional QA documentation: Test Plan, RTM, Defect Report, and Performance An
 |  Build Tool  | Maven | Dependency management and automated test execution. |
 |  Test Runner  | TestNG | Test grouping, reporting, and parallel execution. |
 |  Reporting & CI/CD  | TestNG HTML Reports, GitHub Actions | Automated test runs with visual reports. |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔍 Testing Scope
---------------------------------------------------------------
+-------------------
 ✅ Manual Testing
----------------------------------------------------
-Functional testing of login, signup, navigation, and form validation.
+---------------------
+Functional testing of Login, Signup, and Navigation
 
-UI/UX validation with severity-based defect reporting.
+UI/UX validation with severity-based defect tracking
 
-Cross-browser testing on Chrome, Firefox, and Edge.
+Cross-browser validation on Chrome, Firefox, and Edge
 
 
 🤖 Automation Testing (Selenide + Java)
------------------------------------------
+------------------------------------------
+Implemented Page Object Model for reusability
 
-Developed automation scripts using Selenide for smooth UI testing.
+Added screenshot capture for failed steps
 
-Implemented Page Object Model (POM) for reusability.
+Optimized wait mechanisms using Selenide’s smart waits
 
-Integrated TestNG for parallel execution and reporting.
+Modularized scripts for maintainability
 
-Added screenshots & logs for failure capture.
 
 🔐 Security Testing
---------------------
+-----------------------
+Performed vulnerability scanning using OWASP ZAP
 
-Scanned the site with OWASP ZAP and Burp Suite.
+Tested for XSS injection, insecure headers, missing security flags
 
-Verified for vulnerabilities like XSS, SQLi, cookie security, and data exposure.
-
-Reported and documented findings as per DPDP Act compliance.
+Verified against India’s DPDP Act guidelines for data protection
 
 
 🚀 Performance Testing (JMeter)
 --------------------------------
+Executed Baseline, Load, Spike, Soak, and Stress tests
 
-Conducted Baseline, Load, Stress, Spike, and Soak tests.
+Simulated up to 5000 concurrent virtual users
 
-Simulated user traffic (up to 5000 virtual users).
+Evaluated average response times, throughput, and bottlenecks
 
-Analyzed response times, throughput, and bottlenecks.
 
 📊 Reports & Dashboards
 ------------------------
+📝 Test Plan Document	:- https://docs.google.com/document/d/1UEY3QI7qskxgO_O_Ry-Na7VnFVHYHj_xNUlSU7SbW3E/edit?usp=sharing
 
-📝 Test Plan	               |   https://docs.google.com/document/d/1UEY3QI7qskxgO_O_Ry-Na7VnFVHYHj_xNUlSU7SbW3E/edit?usp=sharing
+✅ Test Case Sheet	:- https://docs.google.com/spreadsheets/d/1gCU6TnXUrAq_UiRaJxfTvlYT4EUX6eQxNtj7weCuuVk/edit?usp=sharing
 
-✅ Test Case Sheet	         |   https://docs.google.com/spreadsheets/d/1gCU6TnXUrAq_UiRaJxfTvlYT4EUX6eQxNtj7weCuuVk/edit?usp=sharing
-
-🐞 Defect Summary            |  https://docs.google.com/spreadsheets/d/1hntA0ejt7Yn6afpqvTxt5nI4P8xV7kCzHtyFrjE-1A0/edit?usp=sharing 
-
-📈 Performance Report (JMeter)	(To be added after final execution)
-🧮 Compliance & Security Report (OWASP)	(To be attached as PDF)
-
+🐞 Defect Summary	:- https://docs.google.com/spreadsheets/d/1hntA0ejt7Yn6afpqvTxt5nI4P8xV7kCzHtyFrjE-1A0/edit?usp=sharing
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧠 Key Learnings
-------------------
-Gained hands-on experience with Selenide, Playwright, JMeter, OWASP ZAP, and TestNG.
+-----------------
+Hands-on experience with Selenide, TestNG, OWASP ZAP, and JMeter
 
-Integrated multiple testing types into a single QA workflow.
+Designed and executed tests across functional and non-functional domains
 
-Improved debugging, reporting, and CI/CD integration skills.
+Improved skills in framework design, CI/CD automation, and report analysis
 
-Understood real-world QA processes from planning → execution → reporting.
+Practiced real-world QA workflows from planning to defect closure
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🏆 Project Outcome & Takeaways
---------------------------------
-📌 Demonstrated ability to execute full-cycle testing on a live web application.
-📌 Gained real-world QA project experience with manual, automation, performance, and security testing.
-📌 Built a multi-tool QA skill set aligned with modern DevOps workflows.
+🏆 Project Outcomes
+--------------------
+Built a robust and scalable QA automation framework using Selenide
 
+Achieved 100% requirements coverage (via RTM)
+
+Documented comprehensive testing reports with metrics and insights
+
+Developed a strong understanding of multi-tool QA integration
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🙌 Acknowledgments
 -------------------
-Special thanks to our mentor Shri. Sheena Rajan for her guidance and continuous support.
-Gratitude to the Open-Source Testing Community for their amazing tools and shared knowledge.
+I extend my heartfelt gratitude to Ms. Sheena Rajan, our mentor, for her guidance, expertise, and constant support throughout this project.
+Gratitude to the Open Source Testing Community for their valuable tools and shared resources.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+⭐ Repository Info
+-------------------
 
-⭐ Project Repository Info
----------------------------
+📁 Repository Name	Kerala-Tourism-Website-Automation-Selenide-Java
+🧩 Primary Framework	Selenide (Java)
+⚙️ Test Runner	TestNG
+🧱 Build Tool	Maven
+🕹 CI/CD	GitHub Actions
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📁 Repository Name: Kerala-Tourism-Website-Automation-Selenide-Java
-🔧 Primary Framework: Selenide (Java)
-
-⭐ If you found this project helpful, give it a star on GitHub to support open learning!
+⭐ If you found this project helpful, consider giving it a star on GitHub to support open learning!
