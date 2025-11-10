@@ -86,7 +86,9 @@ Evaluated average response times, throughput, and bottlenecks
 ✅ Test Case Sheet	:- https://docs.google.com/spreadsheets/d/1gCU6TnXUrAq_UiRaJxfTvlYT4EUX6eQxNtj7weCuuVk/edit?usp=sharing
 
 🐞 Defect Summary	:- https://docs.google.com/spreadsheets/d/1hntA0ejt7Yn6afpqvTxt5nI4P8xV7kCzHtyFrjE-1A0/edit?usp=sharing
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🧠 Key Learnings
 -----------------
@@ -103,12 +105,10 @@ Practiced real-world QA workflows from planning to defect closure
 🏆 Project Outcomes
 --------------------
 Built a robust and scalable QA automation framework using Selenide
-
 Achieved 100% requirements coverage (via RTM)
-
 Documented comprehensive testing reports with metrics and insights
-
 Developed a strong understanding of multi-tool QA integration
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🙌 Acknowledgments
