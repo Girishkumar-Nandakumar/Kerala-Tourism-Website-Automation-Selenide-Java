@@ -113,7 +113,6 @@ Developed a strong understanding of multi-tool QA integration
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 🙌 Acknowledgments
 -------------------
 I extend my heartfelt gratitude to Ms. Sheena Rajan, our mentor, for her guidance, expertise, and constant support throughout this project.
